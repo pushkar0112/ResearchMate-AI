@@ -2,6 +2,8 @@
 
 ResearchMate AI is a professional, beginner-friendly project for **Assignment 5: Paper-to-Presentation & Viva Agent**. It is designed to help a student understand a research paper, prepare a presentation, and practice explaining the work.
 
+#Deployed Link
+https://pushkar0112-researchmate-ai-app-op6ivt.streamlit.app/
 ## Current status
 
 The Streamlit app currently supports page-aware PDF extraction, Gemini-grounded paper chat and analysis, PowerPoint generation with an in-app presenter, interactive viva practice (up to six questions per session), paper-grounded flashcards with citations, and a learning dashboard with local score history and topic performance. Gemini-backed features require a local `GEMINI_API_KEY` in `.env`.
